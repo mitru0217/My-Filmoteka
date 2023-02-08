@@ -2,7 +2,7 @@
   "name": "my-filmoteka",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mitru0217/My-Filmoteka.git/",
+  "homepage": "https://mitru0217.github.io/My-Filmoteka/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
