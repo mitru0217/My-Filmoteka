@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mitru0217/My-Filmoteka.git/static/css/main.7acaea2f.css",
+    "main.js": "/mitru0217/My-Filmoteka.git/static/js/main.07d3183d.js",
+    "index.html": "/mitru0217/My-Filmoteka.git/index.html",
+    "main.7acaea2f.css.map": "/mitru0217/My-Filmoteka.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/mitru0217/My-Filmoteka.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
